@@ -5,7 +5,10 @@ Download [DECRYPT_RW.img.tar](https://github.com/Archer3770/Release/releases/dow
 
 [Install Instructions](https://xdaforums.com/t/sm-s918b-0-one-ui-6-1-userdata_aio-odin-flashable-to-remove-encryption-make-rom-rw-install-twrp-root-use-on-stock-firmware-unlocked-bootloaders.4610061/)
 
-
+# Special Thanks 
+[jrkruse](https://xdaforums.com/m/jrkruse.1949695/) For userdata aio script.
+[mohammad.afaneh92](https://github.com/afaneh92) For prebuilt image of dm3q.
+[Edward](https://github.com/edward0181) For help me.
 
 ## Clone repo
 ```bash 
