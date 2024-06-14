@@ -1,0 +1,30 @@
+{
+  "Profiles": [
+    {
+      "Name": "GpisSfCpusetEnable",
+      "Actions": [
+        {
+          "Name": "SetAttribute",
+          "Params":
+          {
+            "Name": "GpisSfCpuset",
+            "Value": "3-6"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "GpisSfCpusetDisable",
+      "Actions": [
+        {
+          "Name": "SetAttribute",
+          "Params":
+          {
+            "Name": "GpisSfCpuset",
+            "Value": "0-6"
+          }
+        }
+      ]
+    }
+  ]
+}

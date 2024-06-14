@@ -1,0 +1,6 @@
+ro.display.series=Samsung S23 Ultra
+ro.product.board=kalama
+ro.board.platform=kalama
+sys.usb.controller=a600000.dwc3
+ro.boot.dynamic_partitions=true
+ro.boot.bootdevice=1d84000.ufshc
