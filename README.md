@@ -7,7 +7,9 @@ Download [DECRYPT_RW.img.tar](https://github.com/Archer3770/Release/releases/dow
 
 # Special Thanks 
 [jrkruse](https://xdaforums.com/m/jrkruse.1949695/) For userdata aio script.
+
 [mohammad.afaneh92](https://github.com/afaneh92) For prebuilt image of dm3q.
+
 [Edward](https://github.com/edward0181) For help me.
 
 ## Clone repo
