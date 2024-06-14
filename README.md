@@ -1,16 +1,18 @@
 # TWRP Device Tree for Samsung Galaxy S23 Ultra
 
-# Not Working
-```bash
-Decryption.
-```
+## For Decryption
+Download [DECRYPT_RW.img.tar](https://github.com/Archer3770/Release/releases/download/Release/USERDATA_AIO_SM-S918x_DECRYPT_RW.img.tar) 
 
-# Clone repo
+[Install Instructions](https://xdaforums.com/t/sm-s918b-0-one-ui-6-1-userdata_aio-odin-flashable-to-remove-encryption-make-rom-rw-install-twrp-root-use-on-stock-firmware-unlocked-bootloaders.4610061/)
+
+
+
+## Clone repo
 ```bash 
 git clone -b android-12.1 https://github.com/Archer3770/twrp_device_samsung_dm3q device/samsung/dm3q
 ```
 
-# To build 
+## To build 
 ```bash
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
