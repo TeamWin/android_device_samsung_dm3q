@@ -16,6 +16,23 @@
       "message": "Needs more testing, so blocked for now.",
       "revId": "46326c351acaa931ada70805d76ab1e252ea555b",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30ab48e0_0423666a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1295
+      },
+      "writtenOn": "2024-07-14T20:48:24Z",
+      "side": 1,
+      "message": "Looked into dmesg, seems everything fine :) All functions works as expected.",
+      "revId": "46326c351acaa931ada70805d76ab1e252ea555b",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
