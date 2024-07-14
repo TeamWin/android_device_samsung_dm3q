@@ -175,4 +175,10 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TW_INCLUDE_LPDUMP := true
 TW_INCLUDE_LPTOOLS := true
+
+# Status bar
+TW_STATUS_ICONS_ALIGN := center
+TW_Y_OFFSET := 100
+TW_H_OFFSET := -100
+
 # *End*
